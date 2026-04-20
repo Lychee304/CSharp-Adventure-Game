@@ -11,6 +11,7 @@ namespace CSharp_Adventure_Console_Game
         static void Main(string[] args)
         {
             Console.WriteLine("meow meow meow meow");
+            Console.WriteLine("meow meow meow meow");
 
         }
     }
