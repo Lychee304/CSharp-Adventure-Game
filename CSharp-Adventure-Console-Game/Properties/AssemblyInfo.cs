@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CSharp-Adventure-Game")]
+[assembly: AssemblyTitle("CSharp-Adventure-Console-Game")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CSharp-Adventure-Game")]
+[assembly: AssemblyProduct("CSharp-Adventure-Console-Game")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("538360a5-8fe5-4461-ac77-c3ee960e7396")]
+[assembly: Guid("37b22606-077f-4ad8-9a2b-eaa9f2f4761c")]
 
 // Version information for an assembly consists of the following four values:
 //
